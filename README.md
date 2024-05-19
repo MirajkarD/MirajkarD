@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=<h1 align="center">Hi 👋, there</h1>;<h1>I'm Dhanashri Mirajkar</h1>)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Dhanashri Mirajkar</h1>
 <h3 align="center">Aspiring AIML Engineer 🤖 | Full Stack Enthusiast 🌐 | Tech Innovator 🚀 | Problem Solver 🧩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirajkard&label=Profile%20views&color=0e75b6&style=flat" alt="mirajkard" /> </p>
@@ -9,6 +9,9 @@
 - 💬 Ask me about **🤖Feel free to ask me anything about React, Express, or AIML libraries! Whether it's about coding, implementation strategies, best practices, or troubleshooting, I'm here to help!**
 
 - 📫 How to reach me **sonalimirajkar174@gmail.com**
+
+- 📄 Eager to discover more about who I am? [Resume_DhanashriM](https://github.com/MirajkarD/MirajkarD/files/15369642/Resume_DhanashriM.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
