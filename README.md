@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=<h1 align="center">Hi 👋, there</h1>;<h1>I'm Dhanashri Mirajkar</h1>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋 there; I'm Dhanashri Mirajkar)](https://git.io/typing-svg)
 
 <h3 align="center">Aspiring AIML Engineer 🤖 | Full Stack Enthusiast 🌐 | Tech Innovator 🚀 | Problem Solver 🧩</h3>
 
