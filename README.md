@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hii+%F0%9F%91%8B+there;I'm+Dhanashri+Mirajkar)](https://git.io/typing-svg)
 
+<h1 align="center">Hi 👋, I'm Dhanashri Mirajkar</h1>
 <h3 align="center">Aspiring AIML Engineer 🤖 | Full Stack Enthusiast 🌐 | Tech Innovator 🚀 | Problem Solver 🧩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirajkard&label=Profile%20views&color=0e75b6&style=flat" alt="mirajkard" /> </p>
@@ -10,8 +10,7 @@
 
 - 📫 How to reach me **sonalimirajkar174@gmail.com**
 
-- 📄 Eager to discover more about who I am? [Resume_DhanashriM](https://github.com/MirajkarD/MirajkarD/files/15369642/Resume_DhanashriM.pdf)
-
+- 📄 Eager to discover more about who I am? [Resume](https://github.com/MirajkarD/MirajkarD/files/15369642/Resume_DhanashriM.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
