@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirajkard&label=Profile%20views&color=0e75b6&style=flat" alt="mirajkard" /> </p>
 
-- 🔭 I’m currently working on **I'm currently developing an OpenCV Projects**
-
 - 🌱 I’m currently learning **I'm currently learning TensorFlow, a powerful library for machine learning and deep learning tasks.**
 
 - 💬 Ask me about **🤖Feel free to ask me anything about React, Express, or AIML libraries! Whether it's about coding, implementation strategies, best practices, or troubleshooting, I'm here to help!**
