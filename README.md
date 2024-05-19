@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=435&lines=Hii+%F0%9F%91%8B+there;I'm+Dhanashri+Mirajkar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hii+%F0%9F%91%8B+there;I'm+Dhanashri+Mirajkar)](https://git.io/typing-svg)
 
 <h3 align="center">Aspiring AIML Engineer 🤖 | Full Stack Enthusiast 🌐 | Tech Innovator 🚀 | Problem Solver 🧩</h3>
 
