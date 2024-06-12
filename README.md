@@ -1,17 +1,17 @@
 
 ![MasterHead](https://camo.githubusercontent.com/082e4970f39bf3115a35b161f85d2b56a3146bc1b5c4f4822cdedfaf80fbaa8f/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67)
 
-<br><br><h1 align="center">Hi 👋, I'm Dhanashri Mirajkar</h1><br>
+<br><h1 align="center">Hi 👋, I'm Dhanashri Mirajkar</h1>
 
 <h3 align="center">Aspiring AIML Engineer 🤖 | Full Stack Enthusiast 🌐 | Tech Innovator 🚀 </h3>
 
-<br><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=mirajkard&label=Profile%20views&color=0e75b6&style=flat" alt="mirajkard" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirajkard&label=Profile%20views&color=0e75b6&style=flat" alt="mirajkard" /> </p>
 
-<br>
 <br>- 🌱 I’m currently learning **TensorFlow, a powerful library for machine learning and deep learning tasks.**<br>
 <br>- 💬 Ask me about **🤖Feel free to ask me anything about React, Express, or AIML libraries! Whether it's about coding, implementation strategies, best practices, or troubleshooting, I'm here to help!**<br>
 <br>- 📫 How to reach me **sonalimirajkar174@gmail.com**<br>
-<br>- 📄 Know about my experiences [Resume](https://github.com/MirajkarD/MirajkarD/blob/main/Dhanashri_Mirajkar.pdf)
+<br>- 📄 Know about my experiences <a href="https://github.com/MirajkarD/MirajkarD/blob/main/Dhanashri_Mirajkar.pdf" target="_blank">Resume</a>.
+
 
 
 ## 🌐 Socials:
