@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Dhanashri Mirajkar</h1><h3 align="center">Aspiring AIML Engineer 🤖 | Full Stack Enthusiast 🌐 | Tech Innovator 🚀 </h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirajkard&label=Profile%20views&color=0e75b6&style=flat" alt="mirajkard" /> </p><br>
-<br>- 🌱 I’m currently learning **TensorFlow, a powerful library for machine learning and deep learning tasks.**<br>
-<br>- 💬 Ask me about **🤖Feel free to ask me anything about React, Express, or AIML libraries! Whether it's about coding, implementation strategies, best practices, or troubleshooting, I'm here to help!**<br><br>- 📫 How to reach me **sonalimirajkar174@gmail.com**<br>
-<br>- 📄 Know about my experiences <a href="https://github.com/MirajkarD/MirajkarD/blob/main/Dhanashri_Mirajkar.pdf" target="_blank">Resume</a>.<br><br>
+<br>- 🌱 I’m currently learning <b>TensorFlow</b>, a powerful library for machine learning and deep learning tasks.<br>
+<br>- 💬 Ask me about <b>🤖Feel free to ask me anything about React, Express, or AIML libraries! Whether it's about coding, implementation strategies, best practices, or troubleshooting, I'm here to help!</b><br><br>- 📫 How to reach me <b>sonalimirajkar174@gmail.com</b><br>
+<br>- 📄 Know about my experiences <a href="https://github.com/MirajkarD/MirajkarD/blob/main/Dhanashri_Mirajkar.pdf" target="_blank"><b>Resume</b></a>.<br><br>
 
 
 ## 🌐 Socials:
